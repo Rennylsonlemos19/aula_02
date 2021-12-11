@@ -1,0 +1,7 @@
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\212054_atvtotaldias\bin\Debug\212054_atvtotaldias.exe.config
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\212054_atvtotaldias\bin\Debug\212054_atvtotaldias.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\212054_atvtotaldias\bin\Debug\212054_atvtotaldias.pdb
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\212054_atvtotaldias\obj\Debug\212054_atvtotaldias.csproj.AssemblyReference.cache
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\212054_atvtotaldias\obj\Debug\212054_atvtotaldias.csproj.CoreCompileInputs.cache
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\212054_atvtotaldias\obj\Debug\212054_atvtotaldias.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\212054_atvtotaldias\obj\Debug\212054_atvtotaldias.pdb
